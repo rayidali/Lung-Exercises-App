@@ -9,4 +9,4 @@
 * A live covid cases count based on your country
 
 ## Status
-Project is: _finished and uploaded on the app store_,
+Project is: _finished and uploaded on the app store_
